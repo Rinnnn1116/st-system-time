@@ -1,0 +1,12 @@
+{
+    "display_name": "System Time",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "凛凛",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Rinnnn1116/st-system-time",
+    "auto_update": true
+}
